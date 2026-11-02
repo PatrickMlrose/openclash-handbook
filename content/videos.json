@@ -1,0 +1,362 @@
+[
+  {
+    "id": "hkqUx8FLhCw",
+    "title": "OpenClash2026最新版教程：面板消失 / 顶部菜单少了 一键生成，规则附加规则怎么添加？/Smart怎么设置？全部解决",
+    "url": "https://www.youtube.com/watch?v=hkqUx8FLhCw",
+    "date": "2026-04-04",
+    "seconds": 857,
+    "category": "核心教程"
+  },
+  {
+    "id": "_iG8vl3pzaM",
+    "title": "【全网最细】一次彻底搞懂YAML分流规则：参数讲解+添加规则+故障排查",
+    "url": "https://www.youtube.com/watch?v=_iG8vl3pzaM",
+    "date": "2025-08-08",
+    "seconds": 2685,
+    "category": "相关专题"
+  },
+  {
+    "id": "3oiA2Ym1Wu4",
+    "title": "告别昂贵VPS！保姆级「链式代理」教程，手把手教你用机场拉落地，低成本解锁高速与纯净IP！",
+    "url": "https://www.youtube.com/watch?v=3oiA2Ym1Wu4",
+    "date": "2025-07-23",
+    "seconds": 972,
+    "category": "相关专题"
+  },
+  {
+    "id": "1U9xkpexHOE",
+    "title": "更新后完全不会用了？新版 OpenClash 教程来了！",
+    "url": "https://www.youtube.com/watch?v=1U9xkpexHOE",
+    "date": "2025-07-05",
+    "seconds": 1029,
+    "category": "核心教程"
+  },
+  {
+    "id": "ZPrIhaS8FX4",
+    "title": "【超详细教程】手把手教你OpenClash Nikki上使用Smart智能策略组，训练专属AI模型自动选最优节点，从此告别手动切换！",
+    "url": "https://www.youtube.com/watch?v=ZPrIhaS8FX4",
+    "date": "2025-07-01",
+    "seconds": 1942,
+    "category": "核心教程"
+  },
+  {
+    "id": "XsKxsvv_LtE",
+    "title": "手把手教你在nikki和openclash上使用自建节点，打通你的任督二脉！",
+    "url": "https://www.youtube.com/watch?v=XsKxsvv_LtE",
+    "date": "2025-06-27",
+    "seconds": 1096,
+    "category": "核心教程"
+  },
+  {
+    "id": "eUqf3lOhFSw",
+    "title": "【全网最细】手把手教你定制自己的yaml文件，mihomo/clash全平台通用，告别早已落后的订阅转换，机场订阅 | 自建节点 | 链式代理 | DNS泄露 | 二进制规则转换、等全介绍！",
+    "url": "https://www.youtube.com/watch?v=eUqf3lOhFSw",
+    "date": "2025-03-19",
+    "seconds": 3997,
+    "category": "相关专题"
+  },
+  {
+    "id": "rHGAx7JekRg",
+    "title": "从零教你Nikki搭配adguardhome  |  mosdns、smartdns以及openclash同样适用，原理加实操，手把手喂饭",
+    "url": "https://www.youtube.com/watch?v=rHGAx7JekRg",
+    "date": "2025-03-14",
+    "seconds": 2617,
+    "category": "核心教程"
+  },
+  {
+    "id": "V4hsLhlblNE",
+    "title": "【全网最细】家庭网络零基础快速入门指南、新手必看视频、网络基础知识、常用命令、家庭网络拓扑、软路由组网方式。",
+    "url": "https://www.youtube.com/watch?v=V4hsLhlblNE",
+    "date": "2025-03-06",
+    "seconds": 1836,
+    "category": "相关专题"
+  },
+  {
+    "id": "Ok-qHkNYvU8",
+    "title": "【全网最细】openwrt入门到精通：带你完全掌握openwrt的使用！| openwrt基础使用教程 | ImmortalWrt 通用教学",
+    "url": "https://www.youtube.com/watch?v=Ok-qHkNYvU8",
+    "date": "2025-02-18",
+    "seconds": 1779,
+    "category": "相关专题"
+  },
+  {
+    "id": "PDQT74-gOg8",
+    "title": "Github镜像站搭建、解决直连环境下脚本执行、配置、规则无法下载等导致的报错问题。",
+    "url": "https://www.youtube.com/watch?v=PDQT74-gOg8",
+    "date": "2024-12-21",
+    "seconds": 655,
+    "category": "相关专题"
+  },
+  {
+    "id": "go5xfSc3VaE",
+    "title": "【全网最细】手把手教你从外网访问家庭内网，原理+演示+排错、动态域名解析（DDNS-GO）、反代服务器（Nginx Proxy Manager）、证书及申请全面讲解",
+    "url": "https://www.youtube.com/watch?v=go5xfSc3VaE",
+    "date": "2024-11-16",
+    "seconds": 2025,
+    "category": "相关专题"
+  },
+  {
+    "id": "0OmO5_HsVPU",
+    "title": "【全网唯一】不依赖插件！教你如何直接运行 mihomo 内核代理(跑裸核)，极致精简。",
+    "url": "https://www.youtube.com/watch?v=0OmO5_HsVPU",
+    "date": "2024-10-26",
+    "seconds": 851,
+    "category": "相关专题"
+  },
+  {
+    "id": "nEw1iadtPvs",
+    "title": "科学上网工具Sub-Store部署使用全攻略：管理节点与订阅的最佳方式，自建节点、多机场、多终端用户必看！",
+    "url": "https://www.youtube.com/watch?v=nEw1iadtPvs",
+    "date": "2024-10-19",
+    "seconds": 1543,
+    "category": "相关专题"
+  },
+  {
+    "id": "hCe4bmMwq7M",
+    "title": "OpenClash全网最简单使用教程 | 订阅和上传yaml配置两种方式，并提供配置一键上传直接使用，小白福音",
+    "url": "https://www.youtube.com/watch?v=hCe4bmMwq7M",
+    "date": "2024-10-16",
+    "seconds": 847,
+    "category": "核心教程"
+  },
+  {
+    "id": "PGiGd5eB1mY",
+    "title": "【全网唯一】OpenWrt IPV6 完整教程 | 主路由+旁路由，科学环境下轻松搞定直播、远程、代理！",
+    "url": "https://www.youtube.com/watch?v=PGiGd5eB1mY",
+    "date": "2024-10-09",
+    "seconds": 713,
+    "category": "相关专题"
+  },
+  {
+    "id": "pm4aiZm17SU",
+    "title": "【全网最细】手搓yaml配置文件 | clash/mihomo系列通用、保姆级教程、让你彻底搞懂yaml文件",
+    "url": "https://www.youtube.com/watch?v=pm4aiZm17SU",
+    "date": "2024-09-26",
+    "seconds": 1650,
+    "category": "相关专题"
+  },
+  {
+    "id": "124HAmOr6gY",
+    "title": "【完美科学方式探讨】OpenWrt 主或旁 、 Linux旁路网关、MAC旁路网关、电脑手机客户端、VPN客户端、内核对比",
+    "url": "https://www.youtube.com/watch?v=124HAmOr6gY",
+    "date": "2024-09-20",
+    "seconds": 1272,
+    "category": "相关专题"
+  },
+  {
+    "id": "Ho7fBTdazRw",
+    "title": "软路由另一款clash系插件 openwrt-mihomo，完美实现openclash的所有功能，简约而不简单。",
+    "url": "https://www.youtube.com/watch?v=Ho7fBTdazRw",
+    "date": "2024-08-15",
+    "seconds": 1288,
+    "category": "相关专题"
+  },
+  {
+    "id": "HptHzHEFRA4",
+    "title": "【新手必看】openclash订阅失败，某些机场和hy2、vless协议无法使用在线订阅转换，某些网站应用访问异常，一个视频全部解决。",
+    "url": "https://www.youtube.com/watch?v=HptHzHEFRA4",
+    "date": "2024-07-29",
+    "seconds": 1729,
+    "category": "核心教程"
+  },
+  {
+    "id": "PvvJpcA_IXE",
+    "title": "openwrt主路由和旁路由模式下的ipv6和openclash共存问题",
+    "url": "https://www.youtube.com/watch?v=PvvJpcA_IXE",
+    "date": "2024-07-18",
+    "seconds": 1071,
+    "category": "核心教程"
+  },
+  {
+    "id": "5-eSqP-iNnc",
+    "title": "openclash新手教程系列附加篇、DNS泄露、openclash搭配Adguardhome、openclash远程访问、订阅失败、BT直连等问题解决",
+    "url": "https://www.youtube.com/watch?v=5-eSqP-iNnc",
+    "date": "2024-07-06",
+    "seconds": 2779,
+    "category": "核心教程"
+  },
+  {
+    "id": "D841V_xgykg",
+    "title": "【全网唯一】定制OpenClash在线分流规则模板、在线订阅转换模板 自定义规则、策略组、分流策略、配置文件、clash规则、搭建订阅转换后端 一并解决很多问题，BT下载、广告拦截、家庭设备指定节点",
+    "url": "https://www.youtube.com/watch?v=D841V_xgykg",
+    "date": "2024-07-01",
+    "seconds": 3400,
+    "category": "核心教程"
+  },
+  {
+    "id": "NZdDmnwxcAo",
+    "title": "【全网最全】OpenClash进阶教程，详细讲解每项设置的作用以及注意事项、Fake-IP增强、TUN、混合模式、DNS污染、顺便解决谷歌商店无法下载、NAS无法访问、家庭局域网设备直连代理控制等",
+    "url": "https://www.youtube.com/watch?v=NZdDmnwxcAo",
+    "date": "2024-06-27",
+    "seconds": 2400,
+    "category": "核心教程"
+  },
+  {
+    "id": "7wiu1YA8Pbc",
+    "title": "【全网最全】OpenClash零基础入门教程 | openclash优缺点、网络设置、安装、内核更新与上传、基础设置，新手使用指南，openwrt软路由OpenClash从入门到精通系列教程之基础篇",
+    "url": "https://www.youtube.com/watch?v=7wiu1YA8Pbc",
+    "date": "2024-06-26",
+    "seconds": 1294,
+    "category": "核心教程"
+  },
+  {
+    "id": "kNynF-uR-EM",
+    "title": "【全网次发】singbox代理插件momo进阶教程、substore制作配置订阅、Fork版本内核配置文件直接添加订阅、常见问题解决！",
+    "url": "https://www.youtube.com/watch?v=kNynF-uR-EM",
+    "date": "2025-08-22",
+    "seconds": 1537,
+    "category": "其他视频"
+  },
+  {
+    "id": "JBhiwbUciHQ",
+    "title": "【全网首发】OpenWrt全新代理插件Momo！SingBox内核 适配Clash面板，超简单上手",
+    "url": "https://www.youtube.com/watch?v=JBhiwbUciHQ",
+    "date": "2025-08-11",
+    "seconds": 1199,
+    "category": "其他视频"
+  },
+  {
+    "id": "tfYpMZ-gx8U",
+    "title": "【超级小白教程】迄今最简单的节点搭建！无需面板，复制粘贴搞定Sing-box服务端，从VPS选购到配置，手把手教你避坑，专业的搭建高速稳定节点",
+    "url": "https://www.youtube.com/watch?v=tfYpMZ-gx8U",
+    "date": "2025-07-13",
+    "seconds": 2078,
+    "category": "其他视频"
+  },
+  {
+    "id": "yiAJD1PL8oc",
+    "title": "彻底搞懂 Nikki 插件｜OpenWrt 透明代理最强配置教程-实操篇",
+    "url": "https://www.youtube.com/watch?v=yiAJD1PL8oc",
+    "date": "2025-06-25",
+    "seconds": 1067,
+    "category": "其他视频"
+  },
+  {
+    "id": "3zvTMxB3MQg",
+    "title": "【超细】PVE安装设置ROS (RouterOS) /OpenWRT超详细教程｜小白也能轻松上手！",
+    "url": "https://www.youtube.com/watch?v=3zvTMxB3MQg",
+    "date": "2025-06-15",
+    "seconds": 3041,
+    "category": "其他视频"
+  },
+  {
+    "id": "Jq4TlrBnGJ8",
+    "title": "【新手必看】PVE安装和优化  | 新手保姆教程  |  All in One 基础篇",
+    "url": "https://www.youtube.com/watch?v=Jq4TlrBnGJ8",
+    "date": "2025-06-12",
+    "seconds": 1534,
+    "category": "其他视频"
+  },
+  {
+    "id": "sl8zK0dv7iM",
+    "title": "【全网最全】openwrt完美插件 nikki 喂饭级教程 | 插件安装卸载、各项设置以及注意事项讲解、各种使用方式讲解| openwrt mihomo | mihomotproxy",
+    "url": "https://www.youtube.com/watch?v=sl8zK0dv7iM",
+    "date": "2025-03-09",
+    "seconds": 3615,
+    "category": "其他视频"
+  },
+  {
+    "id": "oKvYpGo_kvw",
+    "title": "【全网最细】手把手教你手搓singbox配置文件，结合sing-box官方wiki，新老版本配置讲解，机场订阅、自建节点讲解",
+    "url": "https://www.youtube.com/watch?v=oKvYpGo_kvw",
+    "date": "2024-12-03",
+    "seconds": 2275,
+    "category": "其他视频"
+  },
+  {
+    "id": "PkKbfzEmJcs",
+    "title": "Linux环境下运行官方SingBox，轻松配置喂饭视频，支持所有设备！",
+    "url": "https://www.youtube.com/watch?v=PkKbfzEmJcs",
+    "date": "2024-11-28",
+    "seconds": 836,
+    "category": "其他视频"
+  },
+  {
+    "id": "RT59f6z8TF4",
+    "title": "openwrt使用singbox的终极方式、proxy/tun双模式，openwrt与Sing-box完美搭配，官方singbox、超越插件的使用体验、解锁全部功能、自动更新配置与订阅",
+    "url": "https://www.youtube.com/watch?v=RT59f6z8TF4",
+    "date": "2024-11-25",
+    "seconds": 787,
+    "category": "其他视频"
+  },
+  {
+    "id": "lm-yWjc3VTQ",
+    "title": "openwrt与Sing-box完美搭配，官方singbox、超越插件的使用体验、解锁全部功能、自动更新配置与订阅",
+    "url": "https://www.youtube.com/watch?v=lm-yWjc3VTQ",
+    "date": "2024-11-19",
+    "seconds": 1126,
+    "category": "其他视频"
+  },
+  {
+    "id": "eC_GaQoJ4No",
+    "title": "强烈推荐！全新一代网络代理软件，Clash for Windows最佳替代—专业与易用并存的跨平台科学软件MihomoParty详解 Mihomo Party 碾压 clash verge",
+    "url": "https://www.youtube.com/watch?v=eC_GaQoJ4No",
+    "date": "2024-11-06",
+    "seconds": 666,
+    "category": "其他视频"
+  },
+  {
+    "id": "t0PCzfhwuXQ",
+    "title": "【全网最细】小白2分钟，快速构建编译专属openwrt固件，超级简单，适用于官方openwrt、immortalwrt",
+    "url": "https://www.youtube.com/watch?v=t0PCzfhwuXQ",
+    "date": "2024-10-30",
+    "seconds": 1334,
+    "category": "其他视频"
+  },
+  {
+    "id": "uca-CdIO7Ug",
+    "title": "【全网唯一】openwrt完美插件MihomoTproxy教程 | 插件安装卸载、无需使用传统订阅、无需后端、插件原理讲解、超级简单稳定。",
+    "url": "https://www.youtube.com/watch?v=uca-CdIO7Ug",
+    "date": "2024-09-22",
+    "seconds": 1261,
+    "category": "其他视频"
+  },
+  {
+    "id": "pGzAadV2KCY",
+    "title": "openwrt基础配置 | openwrt固件选择、扩容、docker安装扩容、网络共享samba4安装配置、ImmortalWrt固件",
+    "url": "https://www.youtube.com/watch?v=pGzAadV2KCY",
+    "date": "2024-08-31",
+    "seconds": 1452,
+    "category": "其他视频"
+  },
+  {
+    "id": "Ynh1YBR_4Mc",
+    "title": "【全网最细】软路由、openwrt、singbox插件homeproxy教程下期、手动新增分流规则、规则集二进制转换、DNS泄露",
+    "url": "https://www.youtube.com/watch?v=Ynh1YBR_4Mc",
+    "date": "2024-08-24",
+    "seconds": 1136,
+    "category": "其他视频"
+  },
+  {
+    "id": "nNRpbn9M2Lc",
+    "title": "【全网最细】软路由openwrt唯一界面singbox插件homeproxy使用详细教程。",
+    "url": "https://www.youtube.com/watch?v=nNRpbn9M2Lc",
+    "date": "2024-08-22",
+    "seconds": 1246,
+    "category": "其他视频"
+  },
+  {
+    "id": "jMJqTVSHlHQ",
+    "title": "【全网最全】Singbox软路由端-零基础入门教程 | sing-box配置讲解、手搓规则、规则模板、订阅转换后端、裸核运行，一个视频全部讲清楚！",
+    "url": "https://www.youtube.com/watch?v=jMJqTVSHlHQ",
+    "date": "2024-08-20",
+    "seconds": 2531,
+    "category": "其他视频"
+  },
+  {
+    "id": "e07XOJOo25w",
+    "title": "【最全系列教程】Singbox软路由端-零基础入门教程 | sing-box内核介绍、shellcrash的使用",
+    "url": "https://www.youtube.com/watch?v=e07XOJOo25w",
+    "date": "2024-08-18",
+    "seconds": 2012,
+    "category": "其他视频"
+  },
+  {
+    "id": "L3DwX26pXhA",
+    "title": "【全网最细】新手必看！最详细的Windows系统重装教程，全程实操演示，教你系统安装、激活、分区与扩容",
+    "url": "https://www.youtube.com/watch?v=L3DwX26pXhA",
+    "date": "2024-07-13",
+    "seconds": 2038,
+    "category": "其他视频"
+  }
+]

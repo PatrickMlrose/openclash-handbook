@@ -1,0 +1,781 @@
+{
+  "commit": "345bc276f60a24a34c90042c19d28c0fc01e87e2",
+  "date": "2026-11-02",
+  "repository": "https://github.com/hoochanlon/fq-book",
+  "entries": [
+    {
+      "path": "README.md",
+      "title": "前言",
+      "category": "关于本书",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/README.md"
+    },
+    {
+      "path": "_sidebar.md",
+      "title": "原书完整目录",
+      "category": "项目说明与补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/_sidebar.md"
+    },
+    {
+      "path": "a123/rst-syscall.md",
+      "title": "为什么翻了墙，也无法访问某网站？",
+      "category": "科学普及",
+      "status": "实用整编",
+      "chapter": 28,
+      "note": "解析与证书分层排查；按现行文档校正旧说法。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/a123/rst-syscall.md"
+    },
+    {
+      "path": "abc/1190000011485579.md",
+      "title": "科学上网原理",
+      "category": "科学普及",
+      "status": "实用整编",
+      "chapter": 22,
+      "note": "从客户端、协议与网络路径理解 OpenClash 接管。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/1190000011485579.md"
+    },
+    {
+      "path": "abc/3vm.md",
+      "title": "VMware的3种网络模式",
+      "category": "科学普及",
+      "status": "实用整编",
+      "chapter": 27,
+      "note": "结合网关、UDP、NAT 与虚拟机实际路径排查。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/3vm.md"
+    },
+    {
+      "path": "abc/4dns.md",
+      "title": "DNS劫持与污染",
+      "category": "科学普及",
+      "status": "实用整编",
+      "chapter": 23,
+      "note": "解析与证书分层排查；按现行文档校正旧说法。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/4dns.md"
+    },
+    {
+      "path": "abc/4nat.md",
+      "title": "nat类型科普以及提升方法",
+      "category": "科学普及",
+      "status": "实用整编",
+      "chapter": 27,
+      "note": "结合网关、UDP、NAT 与虚拟机实际路径排查。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/4nat.md"
+    },
+    {
+      "path": "abc/4vpn.md",
+      "title": "VPN隧道协议",
+      "category": "科学普及",
+      "status": "实用整编",
+      "chapter": 22,
+      "note": "从客户端、协议与网络路径理解 OpenClash 接管。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/4vpn.md"
+    },
+    {
+      "path": "abc/connection.md",
+      "title": "软件互联协议",
+      "category": "科学普及",
+      "status": "实用整编",
+      "chapter": 22,
+      "note": "从客户端、协议与网络路径理解 OpenClash 接管。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/connection.md"
+    },
+    {
+      "path": "abc/darkweb.md",
+      "title": "深网和暗网的区别及基础扫盲",
+      "category": "科学普及",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/darkweb.md"
+    },
+    {
+      "path": "abc/dc_zhenshu.md",
+      "title": "数字证书攻防概述",
+      "category": "科学普及",
+      "status": "实用整编",
+      "chapter": 28,
+      "note": "解析与证书分层排查；按现行文档校正旧说法。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/dc_zhenshu.md"
+    },
+    {
+      "path": "abc/gfw.md",
+      "title": "GFW原理和封锁技术",
+      "category": "科学普及",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/gfw.md"
+    },
+    {
+      "path": "abc/meek.md",
+      "title": "meek网桥的技术原理",
+      "category": "科学普及",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/meek.md"
+    },
+    {
+      "path": "abc/p7255364.md",
+      "title": "集群、分布式、负载均衡区别",
+      "category": "科学普及",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/p7255364.md"
+    },
+    {
+      "path": "abc/proxy-s-x.md",
+      "title": "浅析正向、反向、透明代理",
+      "category": "科学普及",
+      "status": "实用整编",
+      "chapter": 22,
+      "note": "从客户端、协议与网络路径理解 OpenClash 接管。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/proxy-s-x.md"
+    },
+    {
+      "path": "abc/pure.md",
+      "title": "为什么纯净IP这么重要？",
+      "category": "科学普及",
+      "status": "实用整编",
+      "chapter": 29,
+      "note": "重组为隐私与应用排查说明，不沿用匿名保证或旧服务推荐。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/pure.md"
+    },
+    {
+      "path": "abc/web-proxy-x.md",
+      "title": "代理上网准入检测实验",
+      "category": "科学普及",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/abc/web-proxy-x.md"
+    },
+    {
+      "path": "append/4zeronet.md",
+      "title": "对零网的简要补充说明",
+      "category": "细节补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/4zeronet.md"
+    },
+    {
+      "path": "append/android.md",
+      "title": "谈谈手机的选择及使用",
+      "category": "细节补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/android.md"
+    },
+    {
+      "path": "append/block-ip.md",
+      "title": "关于封锁IP的认为",
+      "category": "细节补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/block-ip.md"
+    },
+    {
+      "path": "append/caoliu.md",
+      "title": "难封锁的草榴",
+      "category": "细节补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/caoliu.md"
+    },
+    {
+      "path": "append/game.md",
+      "title": "论及游戏的看法",
+      "category": "细节补充",
+      "status": "实用整编",
+      "chapter": 27,
+      "note": "结合网关、UDP、NAT 与虚拟机实际路径排查。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/game.md"
+    },
+    {
+      "path": "append/guochan-sharuan.md",
+      "title": "简谈杀毒软件",
+      "category": "细节补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/guochan-sharuan.md"
+    },
+    {
+      "path": "append/none-vps.md",
+      "title": "不写VPS搭建的原因",
+      "category": "项目说明与补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/none-vps.md"
+    },
+    {
+      "path": "append/srvurl.md",
+      "title": "ss、ssr、v2ray链接解析",
+      "category": "细节补充",
+      "status": "实用整编",
+      "chapter": 25,
+      "note": "整理协议兼容、应用入口与凭据保护，旧截图仅供对照。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/srvurl.md"
+    },
+    {
+      "path": "append/ss-relay.md",
+      "title": "SS二级（前置）代理设置",
+      "category": "细节补充",
+      "status": "实用整编",
+      "chapter": 25,
+      "note": "整理协议兼容、应用入口与凭据保护，旧截图仅供对照。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/ss-relay.md"
+    },
+    {
+      "path": "append/ss1130.md",
+      "title": "ss#1130",
+      "category": "细节补充",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/ss1130.md"
+    },
+    {
+      "path": "append/tcw.md",
+      "title": "对于校园网的解读",
+      "category": "细节补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/tcw.md"
+    },
+    {
+      "path": "append/vm.md",
+      "title": "宿主机使用VM的代理",
+      "category": "细节补充",
+      "status": "实用整编",
+      "chapter": 27,
+      "note": "结合网关、UDP、NAT 与虚拟机实际路径排查。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/vm.md"
+    },
+    {
+      "path": "append/win7-wifi.md",
+      "title": "用Win7，电脑就是路由器",
+      "category": "细节补充",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/append/win7-wifi.md"
+    },
+    {
+      "path": "browse/chrome.md",
+      "title": "chrome",
+      "category": "浏览应用",
+      "status": "实用整编",
+      "chapter": 29,
+      "note": "重组为隐私与应用排查说明，不沿用匿名保证或旧服务推荐。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/browse/chrome.md"
+    },
+    {
+      "path": "browse/opera.md",
+      "title": "opera",
+      "category": "浏览应用",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/browse/opera.md"
+    },
+    {
+      "path": "browse/puffin.md",
+      "title": "puffin",
+      "category": "浏览应用",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/browse/puffin.md"
+    },
+    {
+      "path": "browse/tor-firefox.md",
+      "title": "tor（firefox）",
+      "category": "浏览应用",
+      "status": "实用整编",
+      "chapter": 31,
+      "note": "整理内容寻址、存档与阅读方法；原作者署名见源页。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/browse/tor-firefox.md"
+    },
+    {
+      "path": "browse/zeronet.md",
+      "title": "zeronet",
+      "category": "浏览应用",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/browse/zeronet.md"
+    },
+    {
+      "path": "cnnic/no-chn.md",
+      "title": "accesser",
+      "category": "仅作了解",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/cnnic/no-chn.md"
+    },
+    {
+      "path": "dns&hosts/dns.md",
+      "title": "DNS",
+      "category": "DNS、Hosts",
+      "status": "实用整编",
+      "chapter": 23,
+      "note": "解析与证书分层排查；按现行文档校正旧说法。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/dns%26hosts/dns.md"
+    },
+    {
+      "path": "dns&hosts/dnscrypt.md",
+      "title": "DNSCrypt",
+      "category": "DNS、Hosts",
+      "status": "实用整编",
+      "chapter": 23,
+      "note": "解析与证书分层排查；按现行文档校正旧说法。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/dns%26hosts/dnscrypt.md"
+    },
+    {
+      "path": "dns&hosts/hosts.md",
+      "title": "hosts",
+      "category": "DNS、Hosts",
+      "status": "实用整编",
+      "chapter": 23,
+      "note": "解析与证书分层排查；按现行文档校正旧说法。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/dns%26hosts/hosts.md"
+    },
+    {
+      "path": "doub/6t3mypbm-5.md",
+      "title": "浅谈HTTP劫持、DNS污染的影响及解决办法",
+      "category": "细节补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/doub/6t3mypbm-5.md"
+    },
+    {
+      "path": "doub/init_doub.md",
+      "title": "逗比 toyodoub",
+      "category": "项目说明与补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/doub/init_doub.md"
+    },
+    {
+      "path": "doub/wkcjzpyd-2.md",
+      "title": "关于目前 GFW(墙) 的封锁方式TCP封锁(阻断)猜想",
+      "category": "细节补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/doub/wkcjzpyd-2.md"
+    },
+    {
+      "path": "fkca/apn.md",
+      "title": "不止于APN",
+      "category": "特别篇",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/apn.md"
+    },
+    {
+      "path": "fkca/apple-ssr.md",
+      "title": "美区ID购买小火箭",
+      "category": "方法论",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/apple-ssr.md"
+    },
+    {
+      "path": "fkca/esim.md",
+      "title": "获取国外手机号码",
+      "category": "方法论",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/esim.md"
+    },
+    {
+      "path": "fkca/fxxkcxxxa.md",
+      "title": "通过代理IP结合指纹浏览器上网",
+      "category": "方法论",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/fxxkcxxxa.md"
+    },
+    {
+      "path": "fkca/gougong.md",
+      "title": "离岸爱国、数字侨居、脱钩与双重封锁",
+      "category": "方法论",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/gougong.md"
+    },
+    {
+      "path": "fkca/gougongnuchubuzhoushan.md",
+      "title": "跨国阶层跃升中的零容错接力与资本特权",
+      "category": "方法论",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/gougongnuchubuzhoushan.md"
+    },
+    {
+      "path": "fkca/ipdodo-gemini.md",
+      "title": "无法使用Gemini（ipdodo）",
+      "category": "方法论",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/ipdodo-gemini.md"
+    },
+    {
+      "path": "fkca/jianzhan.md",
+      "title": "初次搭建网站多次失败后的成功记录",
+      "category": "细节补充",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/jianzhan.md"
+    },
+    {
+      "path": "fkca/mastercard.md",
+      "title": "开通虚拟信用卡摸索历程",
+      "category": "方法论",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/mastercard.md"
+    },
+    {
+      "path": "fkca/myself-gemini.md",
+      "title": "无法使用Gemini（自用方案）",
+      "category": "方法论",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/myself-gemini.md"
+    },
+    {
+      "path": "fkca/ss-server.md",
+      "title": "国外云服务器自搭梯子示例",
+      "category": "方法论",
+      "status": "实用整编",
+      "chapter": 30,
+      "note": "转为自有服务的接入、维护与恢复流程。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/ss-server.md"
+    },
+    {
+      "path": "fkca/tag.md",
+      "title": "最後のTag",
+      "category": "特别篇",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/fkca/tag.md"
+    },
+    {
+      "path": "ipfs/belief.md",
+      "title": "对去中心化网络的信仰",
+      "category": "ipfs专题",
+      "status": "扩展阅读",
+      "chapter": 31,
+      "note": "去中心化网络的观点文章；本手册仅整理相关概念，原作者与论述见原文。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/ipfs/belief.md"
+    },
+    {
+      "path": "ipfs/ipfs-use-naive.md",
+      "title": "ipfs简单使用",
+      "category": "ipfs专题",
+      "status": "实用整编",
+      "chapter": 31,
+      "note": "整理内容寻址、存档与阅读方法；原作者署名见源页。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/ipfs/ipfs-use-naive.md"
+    },
+    {
+      "path": "ipfs/ipfs.md",
+      "title": "ipfs",
+      "category": "ipfs专题",
+      "status": "实用整编",
+      "chapter": 31,
+      "note": "整理内容寻址、存档与阅读方法；原作者署名见源页。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/ipfs/ipfs.md"
+    },
+    {
+      "path": "ipfs/why.md",
+      "title": "为什么说去中心化很重要",
+      "category": "ipfs专题",
+      "status": "扩展阅读",
+      "chapter": 31,
+      "note": "去中心化网络的观点文章；本手册仅整理相关概念，原作者与论述见原文。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/ipfs/why.md"
+    },
+    {
+      "path": "look/4gfw.md",
+      "title": "4GFW",
+      "category": "阅读须知",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/look/4gfw.md"
+    },
+    {
+      "path": "look/notice.md",
+      "title": "注意事项",
+      "category": "阅读须知",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/look/notice.md"
+    },
+    {
+      "path": "look/nsfw.md",
+      "title": "隐私防护",
+      "category": "阅读须知",
+      "status": "实用整编",
+      "chapter": 29,
+      "note": "重组为隐私与应用排查说明，不沿用匿名保证或旧服务推荐。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/look/nsfw.md"
+    },
+    {
+      "path": "method/get-method.md",
+      "title": "获取梯子上网的方式",
+      "category": "方法论",
+      "status": "实用整编",
+      "chapter": 22,
+      "note": "从客户端、协议与网络路径理解 OpenClash 接管。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/method/get-method.md"
+    },
+    {
+      "path": "only/barbaTunnel.md",
+      "title": "barbaTunnel",
+      "category": "仅作了解",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/only/barbaTunnel.md"
+    },
+    {
+      "path": "only/brook.md",
+      "title": "brook",
+      "category": "仅作了解",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/only/brook.md"
+    },
+    {
+      "path": "only/gatherproxy.md",
+      "title": "gatherproxy",
+      "category": "仅作了解",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/only/gatherproxy.md"
+    },
+    {
+      "path": "only/goagent.md",
+      "title": "goagent",
+      "category": "仅作了解",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/only/goagent.md"
+    },
+    {
+      "path": "only/qtgate.md",
+      "title": "CoNET",
+      "category": "仅作了解",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/only/qtgate.md"
+    },
+    {
+      "path": "only/reqrypt.md",
+      "title": "reqrypt",
+      "category": "仅作了解",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/only/reqrypt.md"
+    },
+    {
+      "path": "postscript.md",
+      "title": "后记",
+      "category": "此书后记",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/postscript.md"
+    },
+    {
+      "path": "proxy/SSH-Tunnel.md",
+      "title": "SSH-Tunnel",
+      "category": "代理工具",
+      "status": "实用整编",
+      "chapter": 26,
+      "note": "整理协议兼容、应用入口与凭据保护，旧截图仅供对照。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/proxy/SSH-Tunnel.md"
+    },
+    {
+      "path": "proxy/privoxy.md",
+      "title": "privoxy",
+      "category": "代理工具",
+      "status": "实用整编",
+      "chapter": 26,
+      "note": "整理协议兼容、应用入口与凭据保护，旧截图仅供对照。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/proxy/privoxy.md"
+    },
+    {
+      "path": "proxy/proxifier.md",
+      "title": "proxifier",
+      "category": "代理工具",
+      "status": "实用整编",
+      "chapter": 26,
+      "note": "整理协议兼容、应用入口与凭据保护，旧截图仅供对照。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/proxy/proxifier.md"
+    },
+    {
+      "path": "proxy/ss-ssr.md",
+      "title": "SS/SSR",
+      "category": "代理工具",
+      "status": "实用整编",
+      "chapter": 25,
+      "note": "整理协议兼容、应用入口与凭据保护，旧截图仅供对照。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/proxy/ss-ssr.md"
+    },
+    {
+      "path": "proxy/v2ray.md",
+      "title": "v2ray",
+      "category": "代理工具",
+      "status": "实用整编",
+      "chapter": 25,
+      "note": "整理协议兼容、应用入口与凭据保护，旧截图仅供对照。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/proxy/v2ray.md"
+    },
+    {
+      "path": "qintro/quickstart.md",
+      "title": "快速入手",
+      "category": "快速开始",
+      "status": "实用整编",
+      "chapter": 22,
+      "note": "从客户端、协议与网络路径理解 OpenClash 接管。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/qintro/quickstart.md"
+    },
+    {
+      "path": "reference/literature.md",
+      "title": "文献列表",
+      "category": "参考文献",
+      "status": "扩展阅读",
+      "chapter": 32,
+      "note": "与 OpenClash 操作无直接依赖，保留完整出处供按需阅读。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/reference/literature.md"
+    },
+    {
+      "path": "vpn/betternet.md",
+      "title": "Betternet",
+      "category": "VPN软件",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/vpn/betternet.md"
+    },
+    {
+      "path": "vpn/classical-vpn.md",
+      "title": "典型VPN概览",
+      "category": "VPN软件",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/vpn/classical-vpn.md"
+    },
+    {
+      "path": "vpn/wireguard.md",
+      "title": "wireguard",
+      "category": "VPN软件",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/vpn/wireguard.md"
+    },
+    {
+      "path": "web/heroku-deploy.md",
+      "title": "heroku搭建ss分享站点",
+      "category": "使用网站",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/web/heroku-deploy.md"
+    },
+    {
+      "path": "web/searchtools.md",
+      "title": "搜索站点",
+      "category": "使用网站",
+      "status": "实用整编",
+      "chapter": 31,
+      "note": "整理内容寻址、存档与阅读方法；原作者署名见源页。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/web/searchtools.md"
+    },
+    {
+      "path": "web/ss-4-heroku.md",
+      "title": "heroku搭建ss服务器",
+      "category": "使用网站",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/web/ss-4-heroku.md"
+    },
+    {
+      "path": "web/use-blog.md",
+      "title": "利用个人博客及视频平台",
+      "category": "使用网站",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/web/use-blog.md"
+    },
+    {
+      "path": "web/v2ray-4-heroku.md",
+      "title": "heroku搭建v2ray服务器",
+      "category": "使用网站",
+      "status": "历史参考",
+      "chapter": 32,
+      "note": "保留历史工具与配置入口；版本、服务与外链未逐项验证。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/web/v2ray-4-heroku.md"
+    },
+    {
+      "path": "web/web-archive.md",
+      "title": "网页时光机",
+      "category": "使用网站",
+      "status": "实用整编",
+      "chapter": 31,
+      "note": "整理内容寻址、存档与阅读方法；原作者署名见源页。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/web/web-archive.md"
+    },
+    {
+      "path": "web/web-proxy.md",
+      "title": "网页代理的使用",
+      "category": "使用网站",
+      "status": "实用整编",
+      "chapter": 29,
+      "note": "重组为隐私与应用排查说明，不沿用匿名保证或旧服务推荐。",
+      "url": "https://github.com/hoochanlon/fq-book/blob/345bc276f60a24a34c90042c19d28c0fc01e87e2/docs/web/web-proxy.md"
+    }
+  ]
+}

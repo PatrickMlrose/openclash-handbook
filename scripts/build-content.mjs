@@ -1,0 +1,13 @@
+import { readFileSync, writeFileSync } from 'node:fs';
+const original=readFileSync('content/openclash-guide.md','utf8');
+const integration=readFileSync('content/fq-book-guide.md','utf8');
+const parse=text=>[...text.matchAll(/^## (\d+)\. (.+)\n([\s\S]*?)(?=^## |$(?![\s\S]))/gm)].map(m=>({id:Number(m[1]),title:m[2],markdown:m[3].trim()}));
+const chapters=[...parse(original),...parse(integration)];
+if(chapters.length!==33)throw new Error('Expected 33 chapters');
+const library=JSON.parse(readFileSync('content/fq-book-index.json','utf8'));
+const sources=readFileSync('content/integration-notes.md','utf8')+'\n\n'+readFileSync('content/video-index.md','utf8');
+writeFileSync('app/book.json',JSON.stringify({chapters,sources,library,videos:JSON.parse(readFileSync('content/videos.json','utf8')),provider:readFileSync('public/downloads/provider-example.yaml','utf8'),module:readFileSync('public/downloads/youtube-overwrite.conf','utf8')},null,2));
+writeFileSync('public/downloads/openclash-guide.md',original+'\n\n'+integration);
+writeFileSync('public/downloads/fq-book-guide.md',integration);
+writeFileSync('public/downloads/fq-book-index.json',JSON.stringify(library,null,2));
+writeFileSync('public/downloads/integration-notes.md',readFileSync('content/integration-notes.md','utf8'));
